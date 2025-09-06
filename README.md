@@ -1,0 +1,1 @@
+A basic login and registration page created as an assignment using only HTML and CSS. This project demonstrates form design, layout styling, and responsive structure for beginner-level web development.
